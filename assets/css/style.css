@@ -11,10 +11,11 @@ font-family: 'Marcellus SC', serif;
 
 */
 body{
-background-color: #333333;
+  background-color: #333333;
 }
 
 
-h1{
-font-family: 'Marcellus SC', serif;
+h1, h1.a{
+  font-family: 'Marcellus SC', serif;
+  color: #f02e6a;
 }
